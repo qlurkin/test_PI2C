@@ -1,5 +1,7 @@
 # Labo PI2C
 
+[![Run Tests](https://github.com/qlurkin/test_PI2C/actions/workflows/test.yml/badge.svg)](https://github.com/qlurkin/test_PI2C/actions/workflows/test.yml)
+
 C'est super
 
 ```python
