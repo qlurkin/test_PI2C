@@ -1,5 +1,4 @@
 import scipy.integrate as itg
-from config import password
 
 def add(a, b):
     if not isinstance(a, (int, float)):
